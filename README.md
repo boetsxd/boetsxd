@@ -1,7 +1,7 @@
 ### Olá!!! Eu sou o Alex! ✌😁
 
 - 🔭 Atualmente trabalhando em atendimentos N1 na Infraestrutura de TI
-- 🌱 Estudando a linguagem Java
+- 🌱 Estudando Python
  
 <div align="Left">
   <a href="https://www.linkedin.com/in/lexsilvadj/">
