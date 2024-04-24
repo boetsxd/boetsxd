@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou o Alex! ✌😁
 
-- 🔭 Atualmente trabalhando em atendimentos N1 na Infraestrutura de TI
+- 🔭 Atualmente trabalhando com atendimentos na Infraestrutura de TI
 - 🌱 Estudando Python
  
 <div align="Left">
