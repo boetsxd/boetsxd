@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou o Alex! ✌😁
 
-- 🔭 Atualmente trabalhando com atendimentos na Infraestrutura de TI
+- 🔭 Atualmente trabalhando com Help Desk de Infraestrutura de TI
 - 🤖 Reforçando conhecimentos em um curso Técnico em Informática
 - 🌱 Estudando Python
  
