@@ -1,8 +1,8 @@
 ### Olá!!! Eu sou o Alex! ✌😁
 
-- 🔭 Atualmente trabalhando com Help Desk de Infraestrutura de TI
+- 🔭 Trabalhei com Help Desk de Infraestrutura de TI por quase 6 anos
 - 🤖 Reforçando conhecimentos em um curso Técnico em Informática
-- 🌱 Estudando Python
+- 🌱 Estudando Python e Machine learning
  
 <div align="Left">
   <a href="https://www.linkedin.com/in/lexsilvadj/">
