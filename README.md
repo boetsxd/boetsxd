@@ -20,6 +20,7 @@
   <img align="center" alt="Boets-C" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Boets-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Boets-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Boets-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/php.svg" />
   
 </div>
   
