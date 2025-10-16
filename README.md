@@ -3,7 +3,13 @@
 - 🔭 Trabalhei com Help Desk de Infraestrutura de TI por quase 6 anos
 - 🤖 Reforçando conhecimentos em um curso Técnico em Informática
 - 🌱 Estudando Python e Machine learning
-
+ 
+<div align="left">
+  <a href="https://www.linkedin.com/in/lexsilvadj/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boetsxd&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+  
 ###  
   
 <div style="display: inline_block"><br>
